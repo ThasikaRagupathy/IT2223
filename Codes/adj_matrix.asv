@@ -1,0 +1,3 @@
+%adjacency matrix
+%visited node need to change as true otherwise false
+%DFS recursive(start node,adj_matrix,array)
