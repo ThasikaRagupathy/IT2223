@@ -1,0 +1,3 @@
+%Dijkstra's algorithm
+startNode=1;
+visited=false(1,n)
